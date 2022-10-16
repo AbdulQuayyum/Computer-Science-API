@@ -1,0 +1,164 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"department": "Computer Science",
+		"faculty": "Communication and Information Science",
+		"years": 4,
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Software Development",
+			"Database Administrator",
+			"Network Engineer"
+		]
+	},
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"department": "Mass Communication",
+		"faculty": "Communication and Information Science",
+		"years": 4,
+		"hod": "Dr. L. A. Azeez",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Software Development",
+			"Database Administrator",
+			"Network Engineer"
+		]
+	},
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"department": "Telecommunication Science",
+		"faculty": "Communication and Information Science",
+		"hod": "Dr. Lukman A. Olawoyin",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Software Development",
+			"Database Administrator",
+			"Network Engineer"
+		]
+	},
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"department": "Information and Communication Science",
+		"faculty": "Communication and Information Science",
+		"hod": "Prof. (Mrs.) O. Veronica Mejabi",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Software Development",
+			"Database Administrator",
+			"Network Engineer"
+		]
+	},
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"department": "Computer Science",
+		"faculty": "Library and Information Science",
+		"hod": "Dr. K. T. Omopupa",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Software Development",
+			"Database Administrator",
+			"Network Engineer"
+		]
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"department": "Micro Biology",
+		"faculty": "Sciences",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Research Scientist",
+			"Environmental Microbiologist",
+			"Fermentation Technologist"
+		]
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"department": "Chemical Engineering",
+		"faculty": "Engineering",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Petro-chemical Engineer",
+			"Plastic Engineer",
+			"Environmental Chemical Engineer"
+		]
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"department": "Accounting",
+		"faculty": "Social Sciences",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Petro-chemical Engineer",
+			"Plastic Engineer",
+			"Environmental Chemical Engineer"
+		]
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"department": "Adult Education",
+		"faculty": "Education",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Petro-chemical Engineer",
+			"Plastic Engineer",
+			"Environmental Chemical Engineer"
+		]
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"faculty": "Education",
+		"department": "Agricultural Science and Education",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Petro-chemical Engineer",
+			"Plastic Engineer",
+			"Environmental Chemical Engineer"
+		]
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"department": "Agriculture",
+		"faculty": "Agriculture",
+		"years": "4",
+		"hod": "Dr. Dayo Reuben Aremu",
+		"address": "Ilorin, Kwara State, Nigeria",
+		"cordinate": "8.48872, 4.6744268",
+		"careers": [
+			"Petro-chemical Engineer",
+			"Plastic Engineer",
+			"Environmental Chemical Engineer"
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"course_code": "CSS231",
+		"course_name": "Computer Programming I (Structured Programming)", 
+		"unit": 2,
+		"status":"C",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff780",
+		"course_code": "CSS233",
+		"course_name": "Object Oriented Programming", 
+		"unit": 2,
+		"status":"C",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff781",
+		"course_code": "CSS217",
+		"course_name": "Computer Programming I (FORTRAN)", 
+		"unit": 2,
+		"status":"E",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff782",
+		"course_code": "CSS219",
+		"course_name": "Computer Appreciation II", 
+		"unit": 2,
+		"status":"E",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff783",
+		"course_code": "CSS227",
+		"course_name": "Intro. To Computer Science (For Management Science)", 
+		"unit": 2,
+		"status":"E",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725a4a7b292f5f8ceff784",
+		"course_code": "CSS229",
+		"course_name": "Numerical Computer I", 
+		"unit": 2,
+		"status":"E",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"course_code": "MAT201",
+		"course_name": "Mathematical Methods I",
+		"unit": 3,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa5",
+		"course_code": "MAT211",
+		"course_name": "Elementary Differential Equation",
+		"unit": 3,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"course_code": "MAT213",
+		"course_name": "Linear Algebra I",
+		"unit": 2,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa8",
+		"course_code": "STA203",
+		"course_name": "Statistics for Physical Science and Engineering I",
+		"unit": 2,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"course_code": "STA221",
+		"course_name": "Probabilty Distribution I",
+		"unit": 3,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"course_code": "GNS211",
+		"course_name": "Philosophy, Logic and Nigerian Culture",
+		"unit": 2,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"course_code": "MAC251",
+		"course_name": "Basic Statistics for Communication and Information Science",
+		"unit": 2,
+		"status": "R",
+		"semester":"Harmattan"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480WW7",
+		"course_code": "CSC212",
+		"course_name": "Computer Programming III",
+		"unit": 3,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480QQ7",
+		"course_code": "CSC214",
+		"course_name": "Introduction to File Processing",
+		"unit": 2,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480nn7",
+		"course_code": "CSC226",
+		"course_name": "Computer Appreciation III",
+		"unit": 2,
+		"status": "E",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480mm7",
+		"course_code": "CSC228",
+		"course_name": "Tools for Scientific Computing",
+		"unit": 2,
+		"status": "E",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480kk7",
+		"course_code": "CSC216",
+		"course_name": "Assembly Language",
+		"unit": 2,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480LL7",
+		"course_code": "CSC218",
+		"course_name": "Computer Programming III (Scientific)",
+		"unit": 3,
+		"status": "E",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480jj7",
+		"course_code": "CSC230",
+		"course_name": "computer Architecture I",
+		"unit": 3,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480II7",
+		"course_code": "CSC222",
+		"course_name": "Database Design and Management I",
+		"unit": 3,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480hh7",
+		"course_code": "CSC224",
+		"course_name": "Internet Technolgy I",
+		"unit": 2,
+		"status": "C",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480GG7",
+		"course_code": "GNS212",
+		"course_name": "Introduction to Social Science, Art and Education",
+		"unit": 2,
+		"status": "R",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480FF7",
+		"course_code": "MAT206",
+		"course_name": "Linear Algebra II",
+		"unit": 2,
+		"status": "R",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eDD7",
+		"course_code": "MAT208",
+		"course_name": "Real Analysis I",
+		"unit": 2,
+		"status": "E",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eCC7",
+		"course_code": "STA222",
+		"course_name": "Probabilty Distribution II",
+		"unit": 3,
+		"status": "E",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480BBE7",
+		"course_code": "PHY252",
+		"course_name": "Electricity and Magnetism II",
+		"unit": 2,
+		"status": "R",
+		"semester":"Rain"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480ebb7",
+		"course_code": "GSE202",
+		"course_name": "Inroduction to Enterpreneurship Skills (Theory)",
+		"unit": 2,
+		"status": "R",
+		"semester":"Rain"
+	}
+]
