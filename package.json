@@ -4,7 +4,7 @@
   "description": "Computer Science Backend API for grouping courses ",
   "main": "Server.js",
   "scripts": {
-    "start": "NODE_ENV=production node Server",
+    "start": "SET NODE_ENV=production & nodemon Server/Server.js",
     "dev": "nodemon Server"
   },
   "repository": "https://github.com/AbdulQuayyum/course-api.git",

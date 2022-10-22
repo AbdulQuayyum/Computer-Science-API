@@ -1,11 +1,11 @@
 const express = require('express')
 const dotenv = require('dotenv')
 const morgan = require('morgan')
-const connectDB = require("./Config/DB")
-const ErrorHandler = require("./Middleware/Error")
+const connectDB = require("./Configurations/DB")
+const ErrorHandler = require("./Middlewares/Error")
 
 // Load environment variables 
-dotenv.config({ path: "./Config/Config.env" })
+dotenv.config({ path: "./Configurations/Config.env" })
 
 // Connect to Database
 connectDB()

@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const dotenv = require('dotenv')
 
 // Load Environment Variables
-dotenv.config({ path: "./Config/Config.env" })
+dotenv.config({ path: "./Configurations/Config.env" })
 
 // Load Models
 const Course = require("./Models/Courses")
@@ -16,7 +16,7 @@ mongoose.connect(process.env.MONGO_URI, {
 
 // Read Json files
 const Courses = JSON.parse(
-    fs.readFileSync(`${__dirname}/_data/courses.json}`, 'utf-8')
+    fs.readFileSync(`${__dirname}/_data/Courses.json}`, 'utf-8')
 )
 
 // Import into DB

@@ -1,5 +1,5 @@
 const ErrorResponse = require("../Utilities/ErrorResponse")
-const AsyncHandler = require("../Middleware/Async")
+const AsyncHandler = require("../Middlewares/Async")
 const Course = require("../Models/Courses")
 
 // @description        Get all courses
